@@ -1,9 +1,17 @@
+# Gaining the market - short term investing
 
-Gaining the market - short term investing
+Final project for the Building AI course
+
+## Summary
 
 Legendary value investor Benjamin Graham said “In the short run, the market is a voting machine but in the long run, it is a weighing machine.”, which has been understanded meaning that in short term popularity of the stock is what drives to price, but in the long run fundamentals under the stock are what drives the price. This has been followed be the great oracle of Omaha, Warren Buffett to great success and it is really good investment advice for regular investors. 
 
-But if we just look at the first part of the quote "“In the short run, the market is a voting machine" and try to take advance of that. With people talking about stocks, their investments and hyping certain stocks in internet we could see certain patterns in stock prices, for example GME which was hyped to record prices by internet, there are other examples that social media, discussion forums, etc hype has caused big spikes on stock price, like Tanger Factory Outlets Centers and Aphria. Predicting those possible spikes could be really useful for short term investing.
+But if we just look at the first part of the quote "“In the short run, the market is a voting machine" and try to take advance of that.
+
+
+## Background
+
+With people talking about stocks, their investments and hyping certain stocks in internet we could see certain patterns in stock prices, for example GME which was hyped to record prices by internet, there are other examples that social media, discussion forums, etc hype has caused big spikes on stock price, like Tanger Factory Outlets Centers and Aphria. Predicting those possible spikes could be really useful for short term investing.
 
 For data, easiest source for data could be reddit forums /r/wallstreetbets, /r/stocks, /r/weedstocks, etc. Finding stock info in twitter, instagram or facebook would be little more diffucult because of the amount of posts / data that is not relevant for stock prices, but it could be doable.
 
